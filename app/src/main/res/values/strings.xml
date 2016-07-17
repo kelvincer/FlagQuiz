@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FlagQuizMVP</string>
+
+    <string name="Main.text.showguess">Adivina el pais</string>
+    <string name="flagquiz.error">Imposible obtener información %s</string>
+    <string name="Main.correct.answer">Correcto!</string>
+    <string name="Main.incorrect.answer">Incorrecto!</string>
+</resources>
